@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86daccfc-3673-4ac7-a9eb-6277ef22976a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/contaktMe/ContactMe.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/icon/Icon.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/logo/Logo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/menu/Menu.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layaout/header/Header.tsx" afterDir="false" />
+    <list default="true" id="86daccfc-3673-4ac7-a9eb-6277ef22976a" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/src/components/FlexWrapper.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/downloadCV/DownloadCV.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/emaillMe/EmailMe.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layaout/sections/main/Main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/iconsSprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/iconsSprite.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,30 +29,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2jD1OHuLMvdCs3VXoz86OQ5MyuQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "npm.start.executor": "Run",
-    "settings.editor.selected.configurable": "MTFeaturesSettingsConfigurable",
-    "ts.external.directory.path": "D:\\Lesson_IT\\it-incubator\\cssReactStyledComponent\\portfolio-start-project-main\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTFeaturesSettingsConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Lesson_IT\\it-incubator\\cssReactStyledComponent\\portfolio-start-project-main\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -84,11 +85,80 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720906801110</updated>
-      <workItem from="1720906803280" duration="3573000" />
+      <workItem from="1720906803280" duration="4011000" />
+      <workItem from="1721050531647" duration="182000" />
+      <workItem from="1721050734572" duration="3772000" />
     </task>
+    <task id="LOCAL-00001" summary="create Header component">
+      <option name="closed" value="true" />
+      <created>1720942978011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720942978011</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create ContactMe component">
+      <option name="closed" value="true" />
+      <created>1720942995178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720942995178</updated>
+    </task>
+    <task id="LOCAL-00003" summary="embedding three components in the root component">
+      <option name="closed" value="true" />
+      <created>1720943087348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720943087348</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create Icon component">
+      <option name="closed" value="true" />
+      <created>1720943107616</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720943107616</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create Logo component">
+      <option name="closed" value="true" />
+      <created>1720943122826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720943122826</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create Menu component">
+      <option name="closed" value="true" />
+      <created>1720943137564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720943137564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="...">
+      <option name="closed" value="true" />
+      <created>1720943159023</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720943159023</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create Header component" />
+    <MESSAGE value="create ContactMe component" />
+    <MESSAGE value="embedding three components in the root component" />
+    <MESSAGE value="create Icon component" />
+    <MESSAGE value="create Logo component" />
+    <MESSAGE value="create Menu component" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
