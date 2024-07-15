@@ -105,7 +105,7 @@
               stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
 
-    <g id="DownloadCv1">
+    <g id="DownloadCv2">
         <path d="M5.00001 11.5L8.33334 8.16667M5.00001 11.5V1.5V11.5ZM5.00001 11.5L1.66667 8.16667L5.00001 11.5Z"
               stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
