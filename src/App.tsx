@@ -1,6 +1,7 @@
 import './App.css';
 import {Header} from "./layaout/header/Header";
 import {Main} from "./layaout/sections/main/Main";
+import {Skills} from "./layaout/sections/skills/Skills";
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
         <div className="App">
             <Header/>
             <Main/>
+            <Skills/>
         </div>
     );
 }
