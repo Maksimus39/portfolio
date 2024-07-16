@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86daccfc-3673-4ac7-a9eb-6277ef22976a" name="Changes" comment="...">
-      <change afterPath="$PROJECT_DIR$/src/components/FlexWrapper.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/downloadCV/DownloadCV.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/emaillMe/EmailMe.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layaout/sections/main/Main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="86daccfc-3673-4ac7-a9eb-6277ef22976a" name="Changes" comment="....">
+      <change afterPath="$PROJECT_DIR$/src/layaout/sections/skills/Skills.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layaout/sections/skills/skill/Skill.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/iconsSprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/iconsSprite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/icon/Icon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icon/Icon.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,7 @@
       <updated>1720906801110</updated>
       <workItem from="1720906803280" duration="4011000" />
       <workItem from="1721050531647" duration="182000" />
-      <workItem from="1721050734572" duration="3772000" />
+      <workItem from="1721050734572" duration="9684000" />
     </task>
     <task id="LOCAL-00001" summary="create Header component">
       <option name="closed" value="true" />
@@ -145,7 +142,63 @@
       <option name="project" value="LOCAL" />
       <updated>1720943159023</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Добавление компоненты Main">
+      <option name="closed" value="true" />
+      <created>1721054649465</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721054649465</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Добавление компоненты DownloadCV">
+      <option name="closed" value="true" />
+      <created>1721054665474</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721054665474</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Добавление компоненты EmailMe">
+      <option name="closed" value="true" />
+      <created>1721054680671</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721054680671</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Добавление компоненты FlexWrapper">
+      <option name="closed" value="true" />
+      <created>1721054696333</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721054696333</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Переименовал спрайт DownloadCv2">
+      <option name="closed" value="true" />
+      <created>1721054733832</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721054733832</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Создал компонент Main">
+      <option name="closed" value="true" />
+      <created>1721054763387</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721054763387</updated>
+    </task>
+    <task id="LOCAL-00014" summary="....">
+      <option name="closed" value="true" />
+      <created>1721054781945</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721054781945</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +212,13 @@
     <MESSAGE value="create Logo component" />
     <MESSAGE value="create Menu component" />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="Добавление компоненты Main" />
+    <MESSAGE value="Добавление компоненты DownloadCV" />
+    <MESSAGE value="Добавление компоненты EmailMe" />
+    <MESSAGE value="Добавление компоненты FlexWrapper" />
+    <MESSAGE value="Переименовал спрайт DownloadCv2" />
+    <MESSAGE value="Создал компонент Main" />
+    <MESSAGE value="...." />
+    <option name="LAST_COMMIT_MESSAGE" value="...." />
   </component>
 </project>
