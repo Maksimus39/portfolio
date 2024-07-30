@@ -10,12 +10,12 @@ export const Works = () => {
                 UI/UX and Web Developer
             </SectionTitle>
 
-            <SektionAge>
+            <SectionAge>
                 4 +
                 Years
                 Experience
                 Working
-            </SektionAge>
+            </SectionAge>
 
             <FlexWrapper>
                 <Work/>
@@ -29,7 +29,15 @@ export const Works = () => {
 const StyledWorks = styled.section`
     min-height: 100vh;
     background-color: blueviolet;
+    padding: 20px;
 `
-const SectionTitle = styled.h2``
-const SektionAge = styled.h2`
+const SectionTitle = styled.h2`
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 10px;
+`
+const SectionAge  = styled.h3`
+    font-size: 1.5rem;
+    color: white;
+    margin-bottom: 20px;
 `
