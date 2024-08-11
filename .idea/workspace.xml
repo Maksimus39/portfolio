@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86daccfc-3673-4ac7-a9eb-6277ef22976a" name="Changes" comment="Новая компонент Works">
+    <list default="true" id="86daccfc-3673-4ac7-a9eb-6277ef22976a" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/src/components/frame/Frame.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slyder/Slider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layaout/sections/testimony/Testymony.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layaout/sections/works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layaout/sections/works/Works.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +86,8 @@
       <workItem from="1721050531647" duration="182000" />
       <workItem from="1721050734572" duration="9889000" />
       <workItem from="1721637497228" duration="3252000" />
-      <workItem from="1722322339679" duration="807000" />
+      <workItem from="1722322339679" duration="1338000" />
+      <workItem from="1723322216683" duration="6379000" />
     </task>
     <task id="LOCAL-00001" summary="create Header component">
       <option name="closed" value="true" />
@@ -277,20 +281,42 @@
       <option name="project" value="LOCAL" />
       <updated>1721641311561</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Застилизовал компонент Work">
+      <option name="closed" value="true" />
+      <created>1722323369467</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1722323369467</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Застилизовал компонент Works">
+      <option name="closed" value="true" />
+      <created>1722323388639</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1722323388639</updated>
+    </task>
+    <task id="LOCAL-00027" summary="...">
+      <option name="closed" value="true" />
+      <created>1722323402922</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1722323402922</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="create Header component" />
     <MESSAGE value="create ContactMe component" />
     <MESSAGE value="embedding three components in the root component" />
     <MESSAGE value="create Icon component" />
     <MESSAGE value="create Logo component" />
     <MESSAGE value="create Menu component" />
-    <MESSAGE value="..." />
     <MESSAGE value="Добавление компоненты Main" />
     <MESSAGE value="Добавление компоненты DownloadCV" />
     <MESSAGE value="Добавление компоненты EmailMe" />
@@ -308,6 +334,9 @@
     <MESSAGE value="Протипизировал входящие данные и отрисовал нативным методом map" />
     <MESSAGE value="Новая компонент Work" />
     <MESSAGE value="Новая компонент Works" />
-    <option name="LAST_COMMIT_MESSAGE" value="Новая компонент Works" />
+    <MESSAGE value="Застилизовал компонент Work" />
+    <MESSAGE value="Застилизовал компонент Works" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
